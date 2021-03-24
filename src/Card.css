@@ -1,0 +1,16 @@
+#title {
+    color: black;
+} #image {
+    height: 40%;
+    width: 40%;
+} #bottom {
+    color: black;
+} div {
+    text-align: center;
+    background-color: palevioletred;
+    color: white;
+} #card {
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+}
